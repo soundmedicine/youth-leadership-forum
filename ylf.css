@@ -20,12 +20,12 @@
 }
 
 .trapezoid {
-    border-bottom: 80px solid pink;
+    border-bottom: 80px solid white;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     height: 0;
     width: 70px;
-    transform: rotate(270deg)
+    transform: rotate(270deg) translate(140px, 120px)
   }
 
 .y {
